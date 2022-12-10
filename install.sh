@@ -49,4 +49,4 @@ start(){
   main
 }
 
-start()
+start
